@@ -1,0 +1,5 @@
+concurrency
+this is multi-tasking where multiple application run 
+one after another in single CPU, making us believe that 
+they are parallely
+
